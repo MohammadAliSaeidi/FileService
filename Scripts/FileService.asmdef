@@ -1,7 +1,10 @@
 {
-    "name": "FileService",
-    "rootNamespace": "Services.File",
-    "references": [],
+    "name": "Chromium.FileService",
+    "rootNamespace": "Chromium.Services.File",
+    "references": [
+        "GUID:de6dd650de9785648bb3e8870b7d319c",
+        "GUID:5be3581d680ba27459d90901654b1f8d"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
